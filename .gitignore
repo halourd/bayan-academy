@@ -1,1 +1,4 @@
-node_modules/
+day5-act/node_modules/
+
+mongoosebasics/node_modules/
+tweet-app/node_modules/
